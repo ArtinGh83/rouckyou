@@ -1,0 +1,9 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+EC:08:6B:7A:83:5E, 2023-09-03 08:09:24, 2023-09-03 08:13:42, 11,  65, WPA2, CCMP TKIP, PSK, -78,     2174,     1278,   0.  0.  0.  0,  20, kooshasystem34405058, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+A0:32:99:BF:9D:53, 2023-09-03 08:09:28, 2023-09-03 08:13:42, -82,     2256, EC:08:6B:7A:83:5E,
+0C:8F:FF:58:2B:C9, 2023-09-03 08:09:37, 2023-09-03 08:10:41, -82,     2601, EC:08:6B:7A:83:5E,
+FC:42:03:67:76:39, 2023-09-03 08:13:24, 2023-09-03 08:13:42, -72,      920, EC:08:6B:7A:83:5E,kooshasystem34405058
+
